@@ -6,9 +6,9 @@ body{
     cursor: pointer;
     background-color: hsl(0, 0%, 20%); 
     color: white;
-    padding: 10px ; 
-    border-radius:5px;
-    width: 85%;
+    padding: 20px ; 
+    border-radius: 10px;
+    width: 100%;
     margin: auto;
     margin-bottom: 15px;
 
